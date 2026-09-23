@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+HEAD
 Rohan Mehta, Cricket, Captain
-=======
+
 Rohan Mehta, Cricket, Opener
->>>>>>> feature-update
+ feature-update
 Aarav Shah, Football, Goalkeeper
